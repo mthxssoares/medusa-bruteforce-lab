@@ -141,11 +141,9 @@ O vídeo apresenta a simulação do laboratório de força bruta com Medusa, mos
 
 ## Relatório Técnico
 
-O relatório completo do laboratório está disponível no arquivo:
+O relatório completo do laboratório está disponível no arquivo abaixo:
 
-```text
-Relatório de Pentest — Ataque de Força Bruta com Medusa.pdf
-```
+[Ver relatório técnico](Relatório%20de%20Pentest%20—%20Ataque%20de%20Força%20Bruta%20com%20Medusa.pdf)
 
 O relatório contém mais detalhes sobre o ambiente, metodologia, execução, evidências e conclusão do laboratório.
 
